@@ -2,11 +2,13 @@ google-generativeai
 llama-index-core
 llama-index-llms-openai
 llama-index-embeddings-huggingface
+llama-index-readers-file
 
 openai
 cohere
 sentence_transformers
 pypdf
+streamlit
 transformers
 tree_sitter
 tree_sitter_languages
